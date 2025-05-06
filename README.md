@@ -1,2 +1,2 @@
-# mit-aerospace-club.github.io
+# rmit-aerospace-club.github.io
 Official site of RMIT Aerospace Club
